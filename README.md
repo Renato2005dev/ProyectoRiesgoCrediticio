@@ -9,6 +9,7 @@ El modelo entrenado descubrió que, contraintuitivamente, factores como "tener c
 Estructura del Proyecto
 A continuación, se presenta la estructura del repositorio, separada por las capas del pipeline de datos y modelado:
 
+
 Plaintext
 PROYECTOCREDITICIO/
 ├── 📁 bi/
